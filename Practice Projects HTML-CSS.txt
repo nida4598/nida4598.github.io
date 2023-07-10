@@ -1,0 +1,26 @@
+project1 : Simple Profile Making
+https://nida4598.github.io/Project1/index.html
+
+project2 : Job Apllication 
+https://nida4598.github.io/Project2/index.html
+
+project3 : Parallax Website 
+nida4598.github.io/Project3
+/index.html
+
+project4 : Developer Landing Page
+nida4598.github.io/Project4
+/index.html
+
+project5 : Frontend of A restaurant 
+nida4598.github.io/Project5
+/index.html
+
+project6 : Simple Practice myTune Page
+nida4598.github.io/Project6
+/index.html
+
+project7 : A Blog Page 
+nida4598.github.io/Project4
+/home.html
+ 
