@@ -21,6 +21,5 @@ nida4598.github.io/Project6
 /index.html
 
 project7 : A Blog Page 
-nida4598.github.io/Project4
-/home.html
+https://nida4598.github.io/Project7/home.html
  
